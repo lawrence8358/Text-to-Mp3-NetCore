@@ -1,0 +1,12 @@
+{
+  "audioConfig": {
+    "audioEncoding": "Mp3",
+    "effectsProfileId": "handset-class-device",
+    "pitch": 0,
+    "speakingRate": 0.95
+  },
+  "voice": {
+    "languageCode": "cmn-CN",
+    "name": "cmn-CN-Wavenet-C"
+  }
+}
