@@ -5,8 +5,9 @@
 
 ---
 ### 必要條件
-* Windows OS，範例使用 Windows 10。
-* Visual Studio 2019。
+* Windows & macOS & Linux，範例使用 Windows 10。
+* 開發工具 Visual Studio 2019。
+* [.NET Core Runtime 3.1.0](https://dotnet.microsoft.com/download/dotnet-core/3.1)，Window x64 版本[安裝檔](https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-3.1.0-windows-x86-installer)、macOS x64 版本[安裝檔](https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-3.1.0-macos-x64-installer)。
 
 <br><br>
 
